@@ -1,0 +1,9 @@
+<resources>
+    <string name="bienvenidos">Bienvenid@s</string>
+    <string name="app_name">traductor ML</string>
+    <string name="Et_Idioma_Origen">Ingrese texto</string>
+    <string name="Tv_Idioma_Destino">Traducción</string>
+    <string name="Bt_Elegir_Idioma">Español</string>
+    <string name="Bt_Idioma_Elegido">Ingles</string>
+    <string name="Bt_Traducir">Traducción</string>
+</resources>
